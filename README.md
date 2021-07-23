@@ -16,7 +16,7 @@ Avito is challenging you to predict demand for an online advertisement based on 
 ![](samples/4.png)
 ![](samples/5.png)
 ![](samples/6.png)
-![](samples/7.png
-![](samples/8.png
-![](samples/9.png
+![](samples/7.png)
+![](samples/8.png)
+![](samples/9.png)
 
